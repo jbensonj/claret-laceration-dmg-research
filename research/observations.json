@@ -56,7 +56,7 @@
   "sample_count": null,
   "inference": "Within-clip damage ratios support a repeated 2.5 multiplier under a common-base, unchanged-modifier assumption. Proc frequencies and the complete damage formula remain unvalidated.",
   "community_context": {
-    "provenance": "Tester supplied video links and summaries; first two titles/channels verified, spoken claims not independently verified because transcripts were unavailable.",
+    "provenance": "Tester supplied links and summaries. Zenpai and The Sacred Spear titles/channels verified; transcripts unavailable. Rivyn Elowen corrected Claret video transcript and on-screen formula reviewed.",
     "competing_upper_tier_models": [
       "(1 + L)^2",
       "L^2"
@@ -79,11 +79,12 @@
         "description_note": "Creator Beta Server"
       },
       {
-        "url": "https://www.youtube.com/watch?v=HFAFDYdimak",
+        "url": "https://www.youtube.com/watch?v=vCs1RQ-eAXg&t=157s",
         "creator": "Rivyn Elowen",
-        "title": "SHE IS NOT INSANE! COMPLETE Updated Koleda Guide | Best Weapons, Teams & Builds | ZZZ 3.2",
+        "title": "Claret IS Insane, BUT..! COMPLETE In-Depth Claret Guide | Best Weapons, Teams & Builds | ZZZ 3.2",
         "transcript_available": true,
-        "review_note": "Auto-generated transcript reviewed; discusses Laceration buffs but a 6.25 mapping claim was not verified. Excluded as support for that claim pending corrected link or timestamp."
+        "reviewed_segment": "2:31–2:40; tester timestamp 2:37",
+        "review_note": "Transcript and displayed equation reviewed. Crit-rate-weighted two-factor expression reduces to (1+L)^2 when both checks are guaranteed; at L=1.5 gives 6.25. This is an inference from formula, not a measured claim. Replaces mistakenly supplied Koleda video HFAFDYdimak."
       }
     ]
   }
