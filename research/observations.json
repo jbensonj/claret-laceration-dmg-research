@@ -100,5 +100,11 @@
       ]
     }
   ],
-  "ai_assistance": "ChatGPT through Codex generated the webpage and code and assisted with evidence organization, source review, calculations, drafting, and rewording. Abstract background and investment motivation adapt Chickenfoot’s original reasoning; the double-crit hypothesis also came from Chickenfoot. Analytical elaborations are AI-assisted, not verbatim contributor statements."
+  "ai_assistance": "ChatGPT through Codex generated the webpage and code and assisted with evidence organization, source review, calculations, drafting, and rewording. Abstract background and investment motivation adapt Chickenfoot’s original reasoning; the double-crit hypothesis also came from Chickenfoot. Analytical elaborations are AI-assisted, not verbatim contributor statements.",
+  "investment_hypothesis": {
+    "author": "Chickenfoot",
+    "status": "Untested; reworded with ChatGPT assistance",
+    "hypothesis": "Further Laceration DMG buffs may contribute relatively little to overall damage compared with options involving True Damage, damage amplification, or DEF increases. If controlled comparisons support this, investments primarily for further Laceration DMG may offer poor relative value.",
+    "limitation": "Current tests compare damage tiers, not upgrades or overall damage. A large baseline multiplier alone does not establish an investment ranking."
+  }
 }
