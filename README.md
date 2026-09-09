@@ -8,7 +8,7 @@ Standalone static article for GitHub Pages. No framework, package installation, 
 
 ## Status
 
-Working draft with supplied media, transcribed build, source links, ratio calculations, and explicit research limitations. Author name, exact test version, exact combat CRIT Rate in A and clip B target settings still need confirmation. The tester confirmed A had no discs or W-Engine and B had discs only for 119% combat CRIT Rate. Clip A menu shows enemy level 70, conflicting with the initial note of 60. A and B show max HP 5,651 and 9,262 respectively.
+Working draft with supplied media, transcribed build, source links, ratio calculations, and explicit research limitations. Exact test version, exact combat CRIT Rate in A and clip B target settings still need confirmation. The tester confirmed A had no discs or W-Engine and B had discs only for 119% combat CRIT Rate. Clip A menu shows enemy level 70, conflicting with the initial note of 60. A and B show max HP 5,651 and 9,262 respectively.
 
 ## Edit
 
@@ -36,3 +36,9 @@ The original clips are each under 21 MB. The article embeds these files directly
 The article's stronger or narrower wording is editorial interpretation for review; it should not be treated as the tester's verbatim conclusion.
 
 - Tester clarification: A was completely unequipped; B used discs only to reach 119% CRIT Rate.
+
+## Authorship and contributions
+
+Author: **Chickenfoot**. **GoldDemon12** collected the experimental data for Chickenfoot: [Twitch](https://www.twitch.tv/golddemon12) · [YouTube](https://www.youtube.com/@GoldDemon12).
+
+ChatGPT through Codex generated the webpage and assisted with evidence organization, source review, calculations, drafting, and rewording. The article labels the Abstract background and Investment implications as adaptations of Chickenfoot’s original reasoning and distinguishes analytical additions from verbatim contributor statements. See the article’s [full disclosure](https://jbensonj.github.io/claret-laceration-dmg-research/#ai-disclosure).

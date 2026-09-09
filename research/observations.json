@@ -1,5 +1,5 @@
 {
-  "revision": "0.2",
+  "revision": "0.3",
   "status": "working draft; methods reconciliation pending",
   "review_date": "2026-09-09",
   "user_hypothesis": "Her laceration core skill effect is able to crit twice.",
@@ -86,6 +86,19 @@
         "reviewed_segment": "2:31–2:40; tester timestamp 2:37",
         "review_note": "Transcript and displayed equation reviewed. Crit-rate-weighted two-factor expression reduces to (1+L)^2 when both checks are guaranteed; at L=1.5 gives 6.25. This is an inference from formula, not a measured claim. Replaces mistakenly supplied Koleda video HFAFDYdimak."
       }
-    ]
-  }
+    ],
+    "validation_status": "Competing mappings are treated as hypotheses requiring in-game testing; balance expectations and ordinary-crit analogies alone cannot establish actual behavior. This note does not establish whether creators conducted separate tests."
+  },
+  "author": "Chickenfoot",
+  "contributors": [
+    {
+      "name": "GoldDemon12",
+      "role": "Data collection",
+      "links": [
+        "https://www.twitch.tv/golddemon12",
+        "https://www.youtube.com/@GoldDemon12"
+      ]
+    }
+  ],
+  "ai_assistance": "ChatGPT through Codex generated the webpage and code and assisted with evidence organization, source review, calculations, drafting, and rewording. Abstract background and investment motivation adapt Chickenfoot’s original reasoning; the double-crit hypothesis also came from Chickenfoot. Analytical elaborations are AI-assisted, not verbatim contributor statements."
 }
