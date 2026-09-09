@@ -1,5 +1,5 @@
 {
-  "revision": "0.1",
+  "revision": "0.2",
   "status": "working draft; methods reconciliation pending",
   "review_date": "2026-09-09",
   "user_hypothesis": "Her laceration core skill effect is able to crit twice.",
@@ -54,5 +54,13 @@
   ],
   "review_scope": "Both recordings sampled every two seconds; selected damage windows sampled at six frames per second. Full frames sampled at the stated times. No exhaustive event census or audio audit.",
   "sample_count": null,
-  "inference": "Within-clip damage ratios support a repeated 2.5 multiplier under a common-base, unchanged-modifier assumption. Proc frequencies and the complete damage formula remain unvalidated."
+  "inference": "Within-clip damage ratios support a repeated 2.5 multiplier under a common-base, unchanged-modifier assumption. Proc frequencies and the complete damage formula remain unvalidated.",
+  "community_context": {
+    "provenance": "Tester report; specific discussion links not supplied",
+    "competing_upper_tier_models": [
+      "(1 + L)^2",
+      "L^2"
+    ],
+    "editorial_definition": "L = displayed Laceration bonus as decimal; 2.25 is a total factor, not +225% bonus damage"
+  }
 }

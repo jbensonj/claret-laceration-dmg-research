@@ -11,6 +11,14 @@ console.log(JSON.stringify({
   crossClipRatio: 12924 / 2068,
   displayedAnchorPredictions: factors.map(f => 2068 * f),
   additiveFinalPrediction: 2068 * (1 + 2 * 1.5),
+  squareDisplayedValuePrediction: 2068 * 1.5 ** 2,
+  marginalGainExamples: [1.5, 3].map(l => ({
+    startingBonus: l, addedBonus: 0.25,
+    beforeDoubleFactor: (1 + l) ** 2,
+    afterDoubleFactor: (1 + l + 0.25) ** 2,
+    relativeDoubleHitGainPercent: (((1 + l + 0.25) / (1 + l)) ** 2 - 1) * 100,
+    scope: 'Hypothetical fixed additive bonus applied at both stages; excludes event probabilities, uptime, opportunity costs and rotation damage.'
+  })),
   nearestRoundingBaseInterval: nearest,
   floorRoundingBaseInterval: floor,
   commonBaseCompatibleWithFinalFloor: floor.lowInclusive < floor.highExclusive,
