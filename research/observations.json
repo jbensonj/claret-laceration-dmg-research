@@ -1,0 +1,58 @@
+{
+  "revision": "0.1",
+  "status": "working draft; methods reconciliation pending",
+  "review_date": "2026-09-09",
+  "user_hypothesis": "Her laceration core skill effect is able to crit twice.",
+  "investment_user_reported": "M0W0",
+  "w_engine_equipped": "None in either clip; tester confirmed",
+  "game_version_recorded": null,
+  "character_level_user_reported": 60,
+  "enemy_level_initial_user_report": 60,
+  "clips": [
+    {
+      "id": "A",
+      "file": "assets/93b28n.mp4",
+      "duration_seconds": 30.761062,
+      "sample_frame_seconds": 26.95,
+      "displayed_damage_tiers": [
+        2068,
+        5170
+      ],
+      "maximum_hp_visible": 5651,
+      "enemy_level_menu": 70,
+      "settings_frame_seconds": 4,
+      "moving_enemies": false,
+      "stunnable_enemies": false,
+      "enemy_invulnerable": true,
+      "unlimited_energy_adrenaline_sharpness": true,
+      "unlimited_assist_points": false,
+      "unlimited_decibels": false,
+      "crit_rate": null,
+      "full_build_verified": false,
+      "build_provenance": "Tester confirmed no discs or engine; exact combat crit rate not captured"
+    },
+    {
+      "id": "B",
+      "file": "assets/2dupbu.mp4",
+      "duration_seconds": 31.185629,
+      "sample_frame_seconds": 19,
+      "displayed_damage_tiers": [
+        5170,
+        12924
+      ],
+      "maximum_hp_visible": 9262,
+      "enemy_level_menu": null,
+      "stats_frame_seconds": 4,
+      "defense": 441,
+      "attack": 1468,
+      "crit_rate_display": "89% +30%",
+      "crit_damage_percent": 102.8,
+      "laceration_damage_percent": 150,
+      "full_build_verified": false,
+      "build_provenance": "Tester confirmed discs only to reach 119% combat CRIT Rate"
+    }
+  ],
+  "review_scope": "Both recordings sampled every two seconds; selected damage windows sampled at six frames per second. Full frames sampled at the stated times. No exhaustive event census or audio audit.",
+  "sample_count": null,
+  "inference": "Within-clip damage ratios support a repeated 2.5 multiplier under a common-base, unchanged-modifier assumption. Proc frequencies and the complete damage formula remain unvalidated."
+}

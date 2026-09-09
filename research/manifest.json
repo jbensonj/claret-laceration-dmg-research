@@ -1,0 +1,77 @@
+[
+  {
+    "file": "assets/2dupbu.mp4",
+    "bytes": 18732252,
+    "sha256": "ac0421dd5b0d857d2d9db582d848a678e8e98cab8d902cbebe161d80177d6133"
+  },
+  {
+    "file": "assets/93b28n.mp4",
+    "bytes": 20330126,
+    "sha256": "fbe03f3936b3e7f4cb4e2766254208cd7df70f2d48141131d390a1d805332891"
+  },
+  {
+    "file": "assets/character.png",
+    "bytes": 480431,
+    "sha256": "92dd28f80bd27ca88bc430bc91b222b973150426b0e55883307a22867964d8c0"
+  },
+  {
+    "file": "assets/clip-a-evidence.png",
+    "bytes": 1067659,
+    "sha256": "0c3047036287af630552f823d648d3a5d886c45f665881128e05819a8f514f43"
+  },
+  {
+    "file": "assets/clip-b-evidence.png",
+    "bytes": 774864,
+    "sha256": "4a4eb9c50ed9b456d8ccdf043dc72acba093d460002e5dcf097a8d2cbeb4f295"
+  },
+  {
+    "file": "assets/disc-1.png",
+    "bytes": 1356627,
+    "sha256": "a6a86819d4d2d7bf76a1b667b4a6b02f61f02b67fab283d4588e14b6066521f7"
+  },
+  {
+    "file": "assets/disc-2.png",
+    "bytes": 1379352,
+    "sha256": "b441373b8a985715c32535618d1bdbec5b9fb32b1980d9ad34119b50bcc7ae0e"
+  },
+  {
+    "file": "assets/disc-4.png",
+    "bytes": 1446768,
+    "sha256": "0381a1de693c69fddba4a0c35f8a51ec5aa6da64048f715ab152fe6ad43cfb10"
+  },
+  {
+    "file": "assets/disc-5.png",
+    "bytes": 1422639,
+    "sha256": "2a3ad8f91b8fd3f545a553464b9115a55c2221838814bbf972fe2e35b88aae01"
+  },
+  {
+    "file": "assets/disc-6.png",
+    "bytes": 1457345,
+    "sha256": "902e2aa5287d81928f878206c5b24f896748f4e9d86cb139ac2cfe9296dc2d35"
+  },
+  {
+    "file": "assets/nocrit_singlecrit_example.png",
+    "bytes": 358420,
+    "sha256": "afb57dfbd274032b18cea682cbb6de03a478fbbc297839357da2c911e5fed65c"
+  },
+  {
+    "file": "assets/singlecrit_doublecrit_example.png",
+    "bytes": 681399,
+    "sha256": "659b9cbee343ea204bad9bcf4d342f8b38d913456eedbbd80c8b5977951fcf27"
+  },
+  {
+    "file": "assets/skills.png",
+    "bytes": 874885,
+    "sha256": "fc0361218e6ffea518f18d3997dfa766ed5bff0fa3282db117c45d261006fca2"
+  },
+  {
+    "file": "assets/stats-4s.png",
+    "bytes": 509317,
+    "sha256": "8e8f919acc06772e105e2c8ffa51d51fc07ba92b4680569b0de19dd2c1e0d362"
+  },
+  {
+    "file": "assets/training-4s.png",
+    "bytes": 597261,
+    "sha256": "91e0eeb2d99d01bba698a9e383f8d70ce14e88d9582790da0395746218869eab"
+  }
+]
