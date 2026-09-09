@@ -56,11 +56,35 @@
   "sample_count": null,
   "inference": "Within-clip damage ratios support a repeated 2.5 multiplier under a common-base, unchanged-modifier assumption. Proc frequencies and the complete damage formula remain unvalidated.",
   "community_context": {
-    "provenance": "Tester report; specific discussion links not supplied",
+    "provenance": "Tester supplied video links and summaries; first two titles/channels verified, spoken claims not independently verified because transcripts were unavailable.",
     "competing_upper_tier_models": [
       "(1 + L)^2",
       "L^2"
     ],
-    "editorial_definition": "L = displayed Laceration bonus as decimal; 2.25 is a total factor, not +225% bonus damage"
+    "editorial_definition": "L = displayed Laceration bonus as decimal; 2.25 is a total factor, not +225% bonus damage",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=UpcfJkt-rKE",
+        "creator": "Zenpai",
+        "title": "100% Crit Rate Isn't Enough Anymore",
+        "tester_summary": "2.25 proposed as an assumption based on balance, not a measured result",
+        "transcript_available": false
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=h_MXyxwwQ7o",
+        "creator": "The Sacred Spear",
+        "title": "How to Play Claret (Main Mechanics, Builds, & Teams Full Guide) | ZZZ Made EZ",
+        "tester_summary": "6.25 interpretation",
+        "transcript_available": false,
+        "description_note": "Creator Beta Server"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=HFAFDYdimak",
+        "creator": "Rivyn Elowen",
+        "title": "SHE IS NOT INSANE! COMPLETE Updated Koleda Guide | Best Weapons, Teams & Builds | ZZZ 3.2",
+        "transcript_available": true,
+        "review_note": "Auto-generated transcript reviewed; discusses Laceration buffs but a 6.25 mapping claim was not verified. Excluded as support for that claim pending corrected link or timestamp."
+      }
+    ]
   }
 }
